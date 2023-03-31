@@ -1,7 +1,7 @@
 # How to show a .NET MAUI Calendar (SfCalendar) in the Popup window
 This repository contains a sample to show the [Syncfusion .NET MAUI Calendar](https://help.syncfusion.com/maui/calendar/getting-started) control in the Popup window.
 
-Please refer the KB through this link.
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13997/how-to-show-a-net-maui-calendar-sfcalendar-in-the-popup-window).
 
 ## Syncfusion controls
 
