@@ -12,7 +12,10 @@
                 Text="Single"
                 Clicked="SelectionModeButton_Clicked" />
         <calendar:SfCalendar Grid.Row="1"
-                             x:Name="calendar"
-                             ShowActionButtons="True" />
+                             x:Name="calendar">
+            <calendar:SfCalendar.FooterView>
+                <calendar:CalendarFooterView ShowActionButtons="True"/>
+            </calendar:SfCalendar.FooterView>
+        </calendar:SfCalendar>
     </Grid>
 </toolkit:Popup>
